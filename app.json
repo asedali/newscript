@@ -1,7 +1,7 @@
 {
-    "name": "newScript",
-    "description": "new on Heroku",
-    "repository": "https://gith",
+    "name": "her",
+    "description": "Heroku",
+    "repository": "https://gjuith",
     "keywords": ["node", "new", "puppeteer"],
     "formation": {
         "web": {
