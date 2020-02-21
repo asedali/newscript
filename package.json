@@ -1,5 +1,5 @@
 {
-  "name": "newScript",
+  "name": "heronew",
   "version": "1.0.0",
   "description": "",
   "main": "worker.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/hh"
   },
   "keywords": [],
   "author": "",
