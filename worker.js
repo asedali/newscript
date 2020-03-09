@@ -40,7 +40,7 @@ console.log(" starting...");
   console.log("on new ...");
   const innerText = await page.evaluate(() => document.querySelector('p').innerText);
   console.log(innerText);
-            await page.waitFor(1000000);
+           // await page.waitFor(1000000);
             console.log("out of new ...");
 
  // await page.waitFor(1000000000);
